@@ -1,1 +1,2 @@
 Hello Git, this is Kellys first repo!
+This is my second Git test.
